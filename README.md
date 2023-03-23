@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello there, stranger.
+## About me
+My username is AsuxAX. I'm a self-taught programmer who has been learning Python for over 2 years now (started in 2021).
+I've made a few small projects on GitHub that I no longer really maintain. I am currently working on a few big projects right now that I plan on releasing this year or next year. One of them is a content-based anime recommendation algorithm.
 
-<!--
-**AsuxAX/asuxax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hobbies
+- Watching anime
+- Reading manga
+- Programming
+- Learning about cyber security
 
-Here are some ideas to get you started:
+#### Goals
+- Become a software engineer
+- Release the big projects I've been working on
+- Getting myself a fluffy cat to pet on a daily basis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Matrix: https://matrix.to/#/@asuxax:matrix.org
+- Discord: AsuxAX#1888
+
+## Donate me
+If you want to donate me for whatever reason, you can do so using these (I might add more later, for now, only XMR):
+- Monero (XMR): `87rK3WTVe2TMUG5SoG3BRnURaQgpxbaHUVY79JUW3jxq8Ce7W2RVfG8E7Gu8gCfAQJh5s61jh2vRCJLMJHbpML2PMA4aicV`
