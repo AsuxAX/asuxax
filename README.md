@@ -1,6 +1,6 @@
 # Hello there, stranger.
 ## About me
-My username is AsuxAX. I'm a self-taught programmer who has been learning Python for over 2 years now (started in 2021).
+I'm a self-taught programmer who has been learning Python for over 2 years now (started in 2021).
 I've made a few small projects on GitHub that I no longer really maintain. I am currently working on a few big projects right now that I plan on releasing this year or next year. One of them is a content-based anime recommendation algorithm.
 
 #### Hobbies
