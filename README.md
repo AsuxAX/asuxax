@@ -7,7 +7,6 @@ I've made a few small projects on GitHub that I no longer really maintain. I am 
 - Watching anime
 - Reading manga
 - Programming
-- Learning about cyber security
 
 #### Goals
 - Become a software engineer
