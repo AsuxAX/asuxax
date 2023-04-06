@@ -1,7 +1,7 @@
 # Hello there, stranger. ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AsuxAX)
 ## About me
 I'm a self-taught programmer who has been learning Python for over 2 years now (started in 2021).
-I've made a few small projects on GitHub that I no longer really maintain. I am currently working on a few big projects right now that I plan on releasing this year or next year. One of them is a content-based anime recommendation algorithm.
+I've made a few small projects on GitHub that I no longer really maintain. I am currently working on a few big projects right now that I plan on releasing this year or next year.
 
 #### Hobbies
 - Watching anime 
