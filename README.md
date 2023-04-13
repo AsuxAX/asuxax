@@ -11,6 +11,7 @@ I've made a few small projects on GitHub that I no longer really maintain. I am 
 - Getting myself a fluffy cat to pet on a daily basis
 
 ## Contact
+- E-Mail: asuxax@tutanota.com
 - Matrix: https://matrix.to/#/@asuxax:matrix.org
 - Discord: AsuxAX#1888
 
