@@ -21,4 +21,4 @@ I've made a few small projects on GitHub that I no longer really maintain. I am 
 If you want to donate me for whatever reason, you can do so using these (I might add more later, for now, only XMR):
 - Monero (XMR): `87rK3WTVe2TMUG5SoG3BRnURaQgpxbaHUVY79JUW3jxq8Ce7W2RVfG8E7Gu8gCfAQJh5s61jh2vRCJLMJHbpML2PMA4aicV`
 
-###### last update: 6/4/2023
+###### last update: 13/4/2023
