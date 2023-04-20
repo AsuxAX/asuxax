@@ -8,6 +8,6 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsuxAX&theme=dark&show_icons=true&hide_border=true">
 </div>
 
-[GPG Public Key](asuxax_0xAF52AF36_public.asc)
+[PGP Public Key](asuxax_0xAF52AF36_public.asc)
 
 ###### last update: 13/4/2023
