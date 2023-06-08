@@ -1,13 +1,19 @@
 
-<h1 align="center"><b>Hello there, stranger. <img src="https://visitor-badge.laobi.icu/badge?page_id=AsuxAX"></b></h1>
+<h1 align="center"><b>Hello there, stranger...</b></h1>
 <div align="center">
-  I'm a self-taught programmer who has been learning Python for over 2 years now (started in 2021).
-  I've made a few small projects on GitHub that I no longer really maintain. I am currently working on a few big projects right now that I plan on releasing next year.
+  Nothing to see here, really.
   <br><br>
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=AsuxAX&theme=dark&show_icons=false&hide_border=true&count_private=true">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsuxAX&theme=dark&show_icons=true&hide_border=true">
+  <h2>Languages I Know</h2>
+  <div class="knownlanguages">
+    <img width=75px src="https://www.svgrepo.com/show/374016/python.svg">
+  </div>
+  <h2>Languages I'm Learning</h2>
+   <div class="learninglanguages">
+    <img width=75px src="https://www.svgrepo.com/show/374056/rust.svg">
+   </div>
 </div>
 
 [PGP Public Key](asuxax_0xAF52AF36_public.asc)
 
-###### last update: 13/4/2023
+###### last update: 08/06/2023
