@@ -7,6 +7,7 @@
   <h2>Languages I Know</h2>
   <div class="knownlanguages">
     <img width=75px src="https://www.svgrepo.com/show/374016/python.svg">
+    <img width=75px src="https://www.svgrepo.com/show/373817/lua.svg">
   </div>
   <h2>Languages I'm Learning</h2>
    <div class="learninglanguages">
