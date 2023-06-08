@@ -14,6 +14,6 @@
    </div>
 </div>
 
-[PGP Public Key](asuxax_0xAF52AF36_public.asc)
+[PGP](asuxax_0xAF52AF36_public.asc) | [Matrix](https://matrix.to/#/@asuxax:matrix.org) | Discord: AsuxAX#1888
 
 ###### last update: 08/06/2023
