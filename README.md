@@ -1,9 +1,8 @@
 
 <h1 align="center"><b>Hello there, stranger...</b></h1>
 <div align="center">
-  Nothing to see here, really.
-  <br><br>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=AsuxAX&theme=dark&show_icons=false&hide_border=true&count_private=true">
+  <p>I make stuff that basically interests nobody. Mostly random-ass things when I'm motivated out of the blue for no reason.</p>
+  <br>
   <h2>Languages I Know</h2>
   <div class="knownlanguages">
     <img width=75px src="https://www.svgrepo.com/show/374016/python.svg">
@@ -14,7 +13,8 @@
     <img width=75px src="https://www.svgrepo.com/show/374056/rust.svg">
    </div>
 </div>
+<br><br><br>
 
 [PGP](asuxax_0xAF52AF36_public.asc) | [Matrix](https://matrix.to/#/@asuxax:matrix.org) | Discord: AsuxAX#1888
 
-###### last update: 08/06/2023
+###### <sup>last update: 09/06/2023</sup>
