@@ -1,4 +1,3 @@
-
 <h1 align="center"><b>Hello there, stranger...</b></h1>
 <div align="center">
   <p>I make stuff that basically interests nobody. Mostly random-ass things when I'm motivated out of the blue for no reason.</p>
@@ -15,6 +14,6 @@
 </div>
 <br><br><br>
 
-[PGP](asuxax_0xAF52AF36_public.asc) | [Matrix](https://matrix.to/#/@asuxax:matrix.org) | Discord: AsuxAX#1888
+[PGP](asuxax_0xAF52AF36_public.asc) | [Matrix](https://matrix.to/#/@asuxax:matrix.org) | Discord: asudox
 
-###### <sup>last update: 09/06/2023</sup>
+###### <sup>last update: 25/06/2023</sup>
