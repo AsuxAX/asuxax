@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    background-image: url(images/backgroundimg.png);
+    background-size: cover;
+    font-size: 20px;
+    transform: scale(1.5);
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .title {
+    margin: 0;
+    width: 30vh;
+    font-family: monospace;
+    color: white;
+    font-size: 2em;
+  }
+
+  .line {
+    width: 100%;
+    border: 1px solid white;
+  }
+
+  .icon-container {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .icon {
+    width: 25px; 
+    height: auto;
+    filter: brightness(0) invert(1);
+  }
